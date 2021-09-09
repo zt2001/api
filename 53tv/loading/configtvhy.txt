@@ -53,4 +53,7 @@
 
 <bb>1.0</bb>
 <url>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-decad6f0-9134-42d5-b199-98625bb424de/8cb0af01-bd4c-4c1e-9379-bf42c8495d13.apk</url>
-<gxnr>如果遇到：1.下载失败-2.应用无权限-3.无法安装应用等问题</gxnr>
+<gxnr>如果遇到：1.下载失败
+                    2.应用无权限
+                    3.无法安装应用等问题
+       手动打开进行安装</gxnr>
