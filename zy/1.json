@@ -1,0 +1,155 @@
+[
+  {
+    "key": "sym3u8",
+    "id": 1,
+    "name": "鲨鱼资源站",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "ctm3u8",
+    "id": 2,
+    "name": "苍天资源站",
+    "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/from/ctm3u8/",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "key": "lbm3u8",
+    "id": 3,
+    "name": "乐播资源站",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "hjm3u8",
+    "id": 4,
+    "name": "花椒资源站",
+    "api": " https://apihjzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "lym3u8",
+    "id": 5,
+    "name": "老鸭资源站",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "ferd",
+    "id": 7,
+    "name": "富二代资源站",
+    "api": "http://f2dcj6.com/sapi?ac=videolist",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "zmw",
+    "id": 8,
+    "name": "字幕网资源站",
+    "api": "http://zmcj88.com/sapi",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "key": "hyw",
+    "id": 9,
+    "name": "环亚资源站",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "ftt",
+    "id": 10,
+    "name": "博天堂资源站",
+    "api": " http://bttcj.com/inc/sapi.php?ac=videolist",
+    "download": "",
+    "group": "",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "jiucao",
+    "id": 12,
+    "name": "\t久草资源站",
+    "api": "http://jcspcj8.com/sapi",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "swm3u8",
+    "id": 13,
+    "name": "丝袜资源网",
+    "api": " https://www.siwazyw.tv/api.php/provide/vod/?ac=list",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "ckplayer",
+    "id": 14,
+    "name": "利来资源站",
+    "api": "http://llzxcj.com/inc/sck.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "xiuse",
+    "id": 15,
+    "name": "秀色资源",
+    "api": " https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/?ac=list",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "Dplayer",
+    "id": 16,
+    "name": "佳丽",
+    "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  }
+]
